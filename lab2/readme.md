@@ -1,1 +1,1 @@
-Here is info for Lab2!
+Here is info for Lab2! There are three excel files containing information that was imported to generate the graphs, which can all be viewable in the ipynb file! You can also view the pdf for just the graph images and legends (descriptions)!
